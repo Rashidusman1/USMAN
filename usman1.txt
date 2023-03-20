@@ -1,7 +1,7 @@
 
-OPEN_SOURCE/TATA.py
+OPEN_SOURCE/usman.py
 
-JUTTBRAND Update TATA.py
+JUTTBRAND Update usman.py
  1 contributor
 709 lines (706 sloc)  49.6 KB
 #LEAKED BY : RASHID USMAN
